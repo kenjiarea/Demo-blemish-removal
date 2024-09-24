@@ -1,3 +1,3 @@
 # Demo
 
-Blemish removal using opencv python.
+Blemish removal using opencv python!
